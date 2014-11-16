@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<log version="1.0" tool="runtool">
+
+<msg id="1" tool="runtool">
+  <type>log-start</type>
+  <arg>2014/11/07 21:48:27</arg>
+</msg>
+<msg id="2" tool="runtool">
+  <type>collector-starts</type>
+</msg>
+<msg id="3" tool="runtool">
+  <type>marker-file</type>
+  <arg>D:\Document\VS Prj\RealtimeGPURayTracer\RealtimeGPURayTracer\My Inspector XE Results - RealtimeGPURayTracer\r000mi1\r000mi1.inspxe</arg>
+</msg>
+<msg id="4" tool="mc">
+  <type>EXEC_OF_INTEREST</type>
+  <arg>D:\Document\VS Prj\RealtimeGPURayTracer\x64\Debug\RealtimeGPURayTracer.exe</arg>
+  <arg>2916</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="5" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Program Files\NVIDIA Corporation\CoProcManager\detoured.dll</arg>
+  <arg>0x0000000013280000</arg>
+  <arg>0x0000000013285FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="6" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\system32\kernel32.dll</arg>
+  <arg>0x0000000076B30000</arg>
+  <arg>0x0000000076C4EFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="7" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\system32\USER32.dll</arg>
+  <arg>0x0000000076C50000</arg>
+  <arg>0x0000000076D49FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="8" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\SYSTEM32\ntdll.dll</arg>
+  <arg>0x0000000076D50000</arg>
+  <arg>0x0000000076EF8FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="9" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Program Files (x86)\Intel\Inspector XE 2013\bin64\ccrt12.dll</arg>
+  <arg>0x00000000C6000000</arg>
+  <arg>0x00000000C61ADFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="10" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>D:\Document\VS Prj\RealtimeGPURayTracer\x64\Debug\RealtimeGPURayTracer.exe</arg>
+  <arg>0x000000013F8F0000</arg>
+  <arg>0x000000013F985FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="11" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Program Files\NVIDIA Corporation\CoProcManager\nvdxgiwrapx.dll</arg>
+  <arg>0x000007FEFA570000</arg>
+  <arg>0x000007FEFA592FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="12" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Program Files\NVIDIA Corporation\CoProcManager\nvd3d9wrapx.dll</arg>
+  <arg>0x000007FEFA5A0000</arg>
+  <arg>0x000007FEFA5D2FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="13" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\nvinitx.dll</arg>
+  <arg>0x000007FEFCAA0000</arg>
+  <arg>0x000007FEFCACEFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="14" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\DEVOBJ.dll</arg>
+  <arg>0x000007FEFCDB0000</arg>
+  <arg>0x000007FEFCDC9FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="15" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\system32\KERNELBASE.dll</arg>
+  <arg>0x000007FEFCE40000</arg>
+  <arg>0x000007FEFCEABFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="16" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\CFGMGR32.dll</arg>
+  <arg>0x000007FEFCEE0000</arg>
+  <arg>0x000007FEFCF15FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="17" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\SYSTEM32\sechost.dll</arg>
+  <arg>0x000007FEFD1D0000</arg>
+  <arg>0x000007FEFD1EEFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="18" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\system32\ole32.dll</arg>
+  <arg>0x000007FEFD1F0000</arg>
+  <arg>0x000007FEFD3F2FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="19" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\OLEAUT32.dll</arg>
+  <arg>0x000007FEFE190000</arg>
+  <arg>0x000007FEFE266FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="20" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\system32\GDI32.dll</arg>
+  <arg>0x000007FEFE270000</arg>
+  <arg>0x000007FEFE2D6FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="21" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\system32\msvcrt.dll</arg>
+  <arg>0x000007FEFE450000</arg>
+  <arg>0x000007FEFE4EEFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="22" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\system32\USP10.dll</arg>
+  <arg>0x000007FEFE4F0000</arg>
+  <arg>0x000007FEFE5B8FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="23" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\SETUPAPI.dll</arg>
+  <arg>0x000007FEFE5C0000</arg>
+  <arg>0x000007FEFE796FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="24" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\system32\ADVAPI32.dll</arg>
+  <arg>0x000007FEFE8B0000</arg>
+  <arg>0x000007FEFE98AFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="25" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\system32\RPCRT4.dll</arg>
+  <arg>0x000007FEFE990000</arg>
+  <arg>0x000007FEFEABCFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="26" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\system32\MSCTF.dll</arg>
+  <arg>0x000007FEFEBC0000</arg>
+  <arg>0x000007FEFECC8FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="27" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\system32\IMM32.DLL</arg>
+  <arg>0x000007FEFEFA0000</arg>
+  <arg>0x000007FEFEFCDFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="28" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\LPK.dll</arg>
+  <arg>0x000007FEFF050000</arg>
+  <arg>0x000007FEFF05DFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="29" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\MSVCP100D.dll</arg>
+  <arg>0x0000000015A40000</arg>
+  <arg>0x0000000015B3BFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="30" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\MSVCR100D.dll</arg>
+  <arg>0x0000000000D40000</arg>
+  <arg>0x0000000000F0FFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="31" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>D:\Document\VS Prj\RealtimeGPURayTracer\x64\Debug\freeglut.dll</arg>
+  <arg>0x0000000180000000</arg>
+  <arg>0x0000000180060FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="32" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\OPENGL32.dll</arg>
+  <arg>0x000007FEF1FA0000</arg>
+  <arg>0x000007FEF20BCFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="33" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\GLU32.dll</arg>
+  <arg>0x000007FEF51B0000</arg>
+  <arg>0x000007FEF51DCFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="34" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\DDRAW.dll</arg>
+  <arg>0x000007FEF1EA0000</arg>
+  <arg>0x000007FEF1F90FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="35" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\DCIMAN32.dll</arg>
+  <arg>0x000007FEF51A0000</arg>
+  <arg>0x000007FEF51A7FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="36" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\system32\dwmapi.dll</arg>
+  <arg>0x000007FEFADA0000</arg>
+  <arg>0x000007FEFADB7FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="37" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\WINMM.dll</arg>
+  <arg>0x000007FEFA950000</arg>
+  <arg>0x000007FEFA98AFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="38" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>D:\Document\VS Prj\RealtimeGPURayTracer\x64\Debug\glew32d.dll</arg>
+  <arg>0x0000000062720000</arg>
+  <arg>0x00000000627A1FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="39" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\system32\uxtheme.dll</arg>
+  <arg>0x000007FEFB080000</arg>
+  <arg>0x000007FEFB0D5FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="40" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Program Files\Common Files\microsoft shared\ink\tiptsf.dll</arg>
+  <arg>0x000007FEF2810000</arg>
+  <arg>0x000007FEF288EFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="41" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\WINTRUST.dll</arg>
+  <arg>0x000007FEFCDF0000</arg>
+  <arg>0x000007FEFCE29FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="42" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\CRYPT32.dll</arg>
+  <arg>0x000007FEFCB90000</arg>
+  <arg>0x000007FEFCCFBFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="43" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\MSASN1.dll</arg>
+  <arg>0x000007FEFCB60000</arg>
+  <arg>0x000007FEFCB6EFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="44" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\nvoglv64.DLL</arg>
+  <arg>0x0000000068530000</arg>
+  <arg>0x000000006A375FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="45" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\system32\SHELL32.dll</arg>
+  <arg>0x000007FEFD400000</arg>
+  <arg>0x000007FEFE187FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="46" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\SHLWAPI.dll</arg>
+  <arg>0x000007FEFECD0000</arg>
+  <arg>0x000007FEFED40FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="47" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\VERSION.dll</arg>
+  <arg>0x000007FEFBBB0000</arg>
+  <arg>0x000007FEFBBBBFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="48" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\WTSAPI32.dll</arg>
+  <arg>0x000007FEFBD40000</arg>
+  <arg>0x000007FEFBD50FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="49" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\ntmarta.dll</arg>
+  <arg>0x000007FEFB3C0000</arg>
+  <arg>0x000007FEFB3ECFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="50" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\WLDAP32.dll</arg>
+  <arg>0x000007FEFEB60000</arg>
+  <arg>0x000007FEFEBB1FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="51" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\POWRPROF.DLL</arg>
+  <arg>0x000007FEFB440000</arg>
+  <arg>0x000007FEFB46BFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="52" tool="mc">
+  <type>MODULE_UNLOAD</type>
+  <arg>C:\Windows\system32\POWRPROF.DLL</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="53" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\WINSTA.dll</arg>
+  <arg>0x000007FEFBE60000</arg>
+  <arg>0x000007FEFBE9CFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:28 2014</timestamp>
+</msg>
+<msg id="54" tool="mc">
+  <type>MODULE_LOAD_NO_ANALYSIS</type>
+  <arg>C:\Windows\system32\CRYPTBASE.dll</arg>
+  <arg>0x000007FEFC9D0000</arg>
+  <arg>0x000007FEFC9DEFFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:29 2014</timestamp>
+</msg>
+<msg id="55" tool="mc">
+  <type>MODULE_LOAD</type>
+  <arg>C:\Windows\system32\CLBCatQ.DLL</arg>
+  <arg>0x000007FEFE810000</arg>
+  <arg>0x000007FEFE8A8FFF</arg>
+  <severity>INFO</severity>
+  <timestamp>Fri Nov 07 21:48:29 2014</timestamp>
+</msg>

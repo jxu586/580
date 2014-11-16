@@ -1,0 +1,9 @@
+#this is a sample config
+
+#mesh base path, must end with slash
+@meshBasePath
+D:\study\USC\RealtimeGPURayTracer\models\
+
+#shader base path, must end with slash
+@shaderBasePath
+D:\study\USC\RealtimeGPURayTracer\RealtimeGPURayTracer\shader\  

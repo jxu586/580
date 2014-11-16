@@ -1,0 +1,52 @@
+﻿Build started 11/3/2014 9:48:27 PM.
+     1>Project "D:\Document\VS Prj\RealtimeGPURayTracer\RealtimeGPURayTracer\RealtimeGPURayTracer.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\RealtimeGPURayTracer.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\program files (x86)\microsoft sdks\windows\v7.0a\include\windef.h(57): warning C4005: 'MAX_PATH' : macro redefinition
+                 d:\document\vs prj\realtimegpuraytracer\realtimegpuraytracer\utility.h(25) : see previous definition of 'MAX_PATH'
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Document\VS Prj\RealtimeGPURayTracer\Debug\RealtimeGPURayTracer.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\RealtimeGPURayTracer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Document\VS Prj\RealtimeGPURayTracer\Debug\RealtimeGPURayTracer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Document\VS Prj\RealtimeGPURayTracer\Debug\RealtimeGPURayTracer.lib" /MACHINE:X86 Debug\RealtimeGPURayTracer.exe.embed.manifest.res
+         Debug\Camera.obj
+         Debug\main.obj
+         Debug\ShaderProgram.obj
+     1>main.obj : error LNK2019: unresolved external symbol __imp__glutPostRedisplay@0 referenced in function "void __cdecl reshapeFunc(int,int)" (?reshapeFunc@@YAXHH@Z)
+     1>main.obj : error LNK2019: unresolved external symbol __imp__glewGetErrorString@4 referenced in function "void __cdecl InitGL(int,char * * const)" (?InitGL@@YAXHQAPAD@Z)
+     1>main.obj : error LNK2019: unresolved external symbol __imp__glewInit@0 referenced in function "void __cdecl InitGL(int,char * * const)" (?InitGL@@YAXHQAPAD@Z)
+     1>main.obj : error LNK2019: unresolved external symbol __imp__glutKeyboardFunc@4 referenced in function "void __cdecl InitGL(int,char * * const)" (?InitGL@@YAXHQAPAD@Z)
+     1>main.obj : error LNK2019: unresolved external symbol __imp__glutMouseFunc@4 referenced in function "void __cdecl InitGL(int,char * * const)" (?InitGL@@YAXHQAPAD@Z)
+     1>main.obj : error LNK2019: unresolved external symbol __imp__glutPassiveMotionFunc@4 referenced in function "void __cdecl InitGL(int,char * * const)" (?InitGL@@YAXHQAPAD@Z)
+     1>main.obj : error LNK2019: unresolved external symbol __imp__glutReshapeFunc@4 referenced in function "void __cdecl InitGL(int,char * * const)" (?InitGL@@YAXHQAPAD@Z)
+     1>main.obj : error LNK2019: unresolved external symbol __imp__glutMotionFunc@4 referenced in function "void __cdecl InitGL(int,char * * const)" (?InitGL@@YAXHQAPAD@Z)
+     1>main.obj : error LNK2019: unresolved external symbol __imp__glutIdleFunc@4 referenced in function "void __cdecl InitGL(int,char * * const)" (?InitGL@@YAXHQAPAD@Z)
+     1>main.obj : error LNK2019: unresolved external symbol __imp__glutDisplayFunc@4 referenced in function "void __cdecl InitGL(int,char * * const)" (?InitGL@@YAXHQAPAD@Z)
+     1>main.obj : error LNK2019: unresolved external symbol __imp__glutInitWindowPosition@8 referenced in function "void __cdecl InitGL(int,char * * const)" (?InitGL@@YAXHQAPAD@Z)
+     1>main.obj : error LNK2019: unresolved external symbol __imp__glutInitWindowSize@8 referenced in function "void __cdecl InitGL(int,char * * const)" (?InitGL@@YAXHQAPAD@Z)
+     1>main.obj : error LNK2019: unresolved external symbol __imp__glutInitDisplayMode@4 referenced in function "void __cdecl InitGL(int,char * * const)" (?InitGL@@YAXHQAPAD@Z)
+     1>main.obj : error LNK2019: unresolved external symbol __imp____glutInitWithExit@12 referenced in function _glutInit_ATEXIT_HACK@8
+     1>main.obj : error LNK2019: unresolved external symbol __imp____glutCreateWindowWithExit@8 referenced in function _glutCreateWindow_ATEXIT_HACK@4
+     1>main.obj : error LNK2019: unresolved external symbol __imp__glutMainLoop@0 referenced in function _main
+     1>ShaderProgram.obj : error LNK2001: unresolved external symbol __imp____glewDeleteProgram
+     1>ShaderProgram.obj : error LNK2001: unresolved external symbol __imp____glewDeleteShader
+     1>ShaderProgram.obj : error LNK2001: unresolved external symbol __imp____glewGetProgramInfoLog
+     1>ShaderProgram.obj : error LNK2001: unresolved external symbol __imp____glewGetProgramiv
+     1>ShaderProgram.obj : error LNK2001: unresolved external symbol __imp____glewLinkProgram
+     1>ShaderProgram.obj : error LNK2001: unresolved external symbol __imp____glewAttachShader
+     1>ShaderProgram.obj : error LNK2001: unresolved external symbol __imp____glewCreateProgram
+     1>ShaderProgram.obj : error LNK2001: unresolved external symbol __imp____glewUseProgram
+     1>ShaderProgram.obj : error LNK2001: unresolved external symbol __imp____glewGetShaderInfoLog
+     1>ShaderProgram.obj : error LNK2001: unresolved external symbol __imp____glewGetShaderiv
+     1>ShaderProgram.obj : error LNK2001: unresolved external symbol __imp____glewCompileShader
+     1>ShaderProgram.obj : error LNK2001: unresolved external symbol __imp____glewShaderSource
+     1>ShaderProgram.obj : error LNK2001: unresolved external symbol __imp____glewCreateShader
+     1>ShaderProgram.obj : error LNK2001: unresolved external symbol __imp____glewGetUniformLocation
+     1>D:\Document\VS Prj\RealtimeGPURayTracer\Debug\RealtimeGPURayTracer.exe : fatal error LNK1120: 30 unresolved externals
+     1>Done Building Project "D:\Document\VS Prj\RealtimeGPURayTracer\RealtimeGPURayTracer\RealtimeGPURayTracer.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.91

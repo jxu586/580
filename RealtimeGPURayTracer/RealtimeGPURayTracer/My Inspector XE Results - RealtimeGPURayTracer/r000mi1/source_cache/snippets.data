@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippets>
+  <file name="d:\document\vs prj\realtimegpuraytracer\realtimegpuraytracer\rendertargetmanager.cpp" md5="e7cf99283f97307fb3f29d518c47d8b2">
+    <snippet line="25">
+      <line line="22">        memset(pFBTextures, 0, sizeof(GLuint) * numBuffers * 2);</line>
+      <line line="23">    } else {</line>
+      <line line="24">        pFrameBuffers = new GLuint[1];</line>
+      <line line="25">        memset(pFrameBuffers, 0, sizeof(GLuint) * 1);</line>
+      <line line="26"/>
+    </snippet>
+  </file>
+  <file name="f:\dd\vctools\crt_bld\self_64_amd64\crt\src\crt0dat.c" md5="9cda6d204cb018bb74c62e3bf9b13b9e">
+    <snippet line="708">
+      <line line="705">         */</line>
+      <line line="706"/>
+      <line line="707">        ExitProcess(status);</line>
+      <line line="708">}</line>
+      <line line="709"/>
+    </snippet>
+  </file>
+</snippets>

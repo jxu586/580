@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feedback>
+ <message severity="info">Analysis started...</message>
+ <nop/>
+ <message severity="info">Result file: D:\Document\VS Prj\RealtimeGPURayTracer\RealtimeGPURayTracer\My Inspector XE Results - RealtimeGPURayTracer\r000mi1\r000mi1.inspxe </message>
+ <nop/>
+ <message severity="info">Analysis started for D:\Document\VS Prj\RealtimeGPURayTracer\x64\Debug\RealtimeGPURayTracer.exe (pid = 2916) </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Program Files\NVIDIA Corporation\CoProcManager\detoured.dll, address range [0x0000000013280000-0x0000000013285FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\kernel32.dll, address range [0x0000000076B30000-0x0000000076C4EFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\USER32.dll, address range [0x0000000076C50000-0x0000000076D49FFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\SYSTEM32\ntdll.dll, address range [0x0000000076D50000-0x0000000076EF8FFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Program Files (x86)\Intel\Inspector XE 2013\bin64\ccrt12.dll, address range [0x00000000C6000000-0x00000000C61ADFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: D:\Document\VS Prj\RealtimeGPURayTracer\x64\Debug\RealtimeGPURayTracer.exe, address range [0x000000013F8F0000-0x000000013F985FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Program Files\NVIDIA Corporation\CoProcManager\nvdxgiwrapx.dll, address range [0x000007FEFA570000-0x000007FEFA592FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Program Files\NVIDIA Corporation\CoProcManager\nvd3d9wrapx.dll, address range [0x000007FEFA5A0000-0x000007FEFA5D2FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\nvinitx.dll, address range [0x000007FEFCAA0000-0x000007FEFCACEFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\DEVOBJ.dll, address range [0x000007FEFCDB0000-0x000007FEFCDC9FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\KERNELBASE.dll, address range [0x000007FEFCE40000-0x000007FEFCEABFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\CFGMGR32.dll, address range [0x000007FEFCEE0000-0x000007FEFCF15FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\SYSTEM32\sechost.dll, address range [0x000007FEFD1D0000-0x000007FEFD1EEFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\ole32.dll, address range [0x000007FEFD1F0000-0x000007FEFD3F2FFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\OLEAUT32.dll, address range [0x000007FEFE190000-0x000007FEFE266FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\GDI32.dll, address range [0x000007FEFE270000-0x000007FEFE2D6FFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\msvcrt.dll, address range [0x000007FEFE450000-0x000007FEFE4EEFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\USP10.dll, address range [0x000007FEFE4F0000-0x000007FEFE5B8FFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\SETUPAPI.dll, address range [0x000007FEFE5C0000-0x000007FEFE796FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\ADVAPI32.dll, address range [0x000007FEFE8B0000-0x000007FEFE98AFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\RPCRT4.dll, address range [0x000007FEFE990000-0x000007FEFEABCFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\MSCTF.dll, address range [0x000007FEFEBC0000-0x000007FEFECC8FFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\IMM32.DLL, address range [0x000007FEFEFA0000-0x000007FEFEFCDFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\LPK.dll, address range [0x000007FEFF050000-0x000007FEFF05DFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\MSVCP100D.dll, address range [0x0000000015A40000-0x0000000015B3BFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\MSVCR100D.dll, address range [0x0000000000D40000-0x0000000000F0FFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: D:\Document\VS Prj\RealtimeGPURayTracer\x64\Debug\freeglut.dll, address range [0x0000000180000000-0x0000000180060FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\OPENGL32.dll, address range [0x000007FEF1FA0000-0x000007FEF20BCFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\GLU32.dll, address range [0x000007FEF51B0000-0x000007FEF51DCFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\DDRAW.dll, address range [0x000007FEF1EA0000-0x000007FEF1F90FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\DCIMAN32.dll, address range [0x000007FEF51A0000-0x000007FEF51A7FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\dwmapi.dll, address range [0x000007FEFADA0000-0x000007FEFADB7FFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\WINMM.dll, address range [0x000007FEFA950000-0x000007FEFA98AFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: D:\Document\VS Prj\RealtimeGPURayTracer\x64\Debug\glew32d.dll, address range [0x0000000062720000-0x00000000627A1FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\uxtheme.dll, address range [0x000007FEFB080000-0x000007FEFB0D5FFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Program Files\Common Files\microsoft shared\ink\tiptsf.dll, address range [0x000007FEF2810000-0x000007FEF288EFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\WINTRUST.dll, address range [0x000007FEFCDF0000-0x000007FEFCE29FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\CRYPT32.dll, address range [0x000007FEFCB90000-0x000007FEFCCFBFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\MSASN1.dll, address range [0x000007FEFCB60000-0x000007FEFCB6EFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\nvoglv64.DLL, address range [0x0000000068530000-0x000000006A375FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\SHELL32.dll, address range [0x000007FEFD400000-0x000007FEFE187FFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\SHLWAPI.dll, address range [0x000007FEFECD0000-0x000007FEFED40FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\VERSION.dll, address range [0x000007FEFBBB0000-0x000007FEFBBBBFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\WTSAPI32.dll, address range [0x000007FEFBD40000-0x000007FEFBD50FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\ntmarta.dll, address range [0x000007FEFB3C0000-0x000007FEFB3ECFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\WLDAP32.dll, address range [0x000007FEFEB60000-0x000007FEFEBB1FFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\POWRPROF.DLL, address range [0x000007FEFB440000-0x000007FEFB46BFFF] </message>
+ <nop/>
+ <message severity="info">Unloaded module: C:\Windows\system32\POWRPROF.DLL </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\WINSTA.dll, address range [0x000007FEFBE60000-0x000007FEFBE9CFFF] </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\CRYPTBASE.dll, address range [0x000007FEFC9D0000-0x000007FEFC9DEFFF], minimal analysis </message>
+ <nop/>
+ <message severity="info">Loaded module: C:\Windows\system32\CLBCatQ.DLL, address range [0x000007FEFE810000-0x000007FEFE8A8FFF] </message>
+ <nop/>
+</feedback>
